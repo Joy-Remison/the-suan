@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-suan
-- 👀 I’m interested in web development,data analysis and full stack
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on html and css
+- 👀 I’m interested in web development,
+- 🌱 I’m currently learning html,css and javascript at udacity.
+- 💞️ I’m looking to collaborate on html and css and javascript projects
 - 📫 How to reach me lilianremison@gmail.com
 
 <!---
